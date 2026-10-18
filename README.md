@@ -8,7 +8,7 @@ FYI, this was made with gemini.
 
 Instructions on how to use:
 Download modchecker.py
-Put it in your mods folder (Example: D:\SteamLibrary\steamapps\common\People Playground\Mods if you use a different drive.)
+Put in your target directory your mods folder (Example: D:\SteamLibrary\steamapps\common\People Playground\Mods if you use a different drive.)
 Run it,
 It will show you the suspicious mods, you can do ctrl + f and put in mod.json.virus and you will find the mod that is a virus.
 (Optional)
